@@ -28,11 +28,11 @@ from reportlab.graphics.widgetbase import Widget
 from reportlab.lib.enums import TA_CENTER, TA_LEFT, TA_RIGHT
 
 # ================== SOZLAMALAR ==================
-BOT_TOKEN   = "7591952195:AAFJ-dBOBLBxJusbhmNnkTUDMq9U005pdcU"
-GEMINI_KEY  = "AIzaSyCslN9PHEVMtKuDKEvAjHyKuJFB2fpoCgg"
-GROQ_KEY    = "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"
-ELEVEN_KEY  = "d5d5a36bd1218902947ecaed89f8743b6975512661af527c3caea58d90069a35"
-ADMIN_ID    = 6052553489
+BOT_TOKEN   = 
+GEMINI_KEY  = 
+GROQ_KEY    = 
+ELEVEN_KEY  = 
+ADMIN_ID    = 
 WEBAPP_URL  = os.environ.get("WEBAPP_URL", "https://www.sesame.com")
 # Mock test uchun vebsayt (O'zingiz netlify.com yoki bepul serverga html faylni yuklab linkini bu yerga yozasiz)
 MOCK_WEBAPP_URL  = os.environ.get("MOCK_WEBAPP_URL", "https://xayrullayev224.github.io/mock-test/") # GitHub Pages linki (Bannersiz va Fullscreen uchun)
